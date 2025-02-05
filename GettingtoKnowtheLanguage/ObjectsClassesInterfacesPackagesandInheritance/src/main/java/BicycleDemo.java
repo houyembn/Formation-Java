@@ -1,4 +1,4 @@
-class BicycleDemo {
+/*class BicycleDemo {
     public static void main(String[] args) {
 
         // Create two different
@@ -21,5 +21,5 @@ class BicycleDemo {
         bike2.changeGear(3);
         bike2.printStates();
     }
-}
+}*/
 
