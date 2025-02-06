@@ -4,7 +4,7 @@ public class Bicycle {
     private int gear;
     private int speed;
 
-    //constructeur 
+    //constructeur
     public Bicycle(int startCadence, int startSpeed, int startGear) {
         gear = startGear;
         cadence = startCadence;
