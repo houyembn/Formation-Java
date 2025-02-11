@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 public class ListOfNumbers {
     public static void main(String[] args) {
-    
+
     }
     private List<Integer> list;
     private static final int SIZE = 10;
