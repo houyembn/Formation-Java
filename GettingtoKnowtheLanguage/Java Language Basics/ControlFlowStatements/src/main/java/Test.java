@@ -1,3 +1,4 @@
+//calculating remaining workdays based on the Day enum.
 class Test {
     enum Day {
         MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY

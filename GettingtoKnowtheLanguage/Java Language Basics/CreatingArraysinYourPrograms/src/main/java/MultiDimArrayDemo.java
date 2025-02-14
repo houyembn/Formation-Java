@@ -1,3 +1,4 @@
+//printing the names according to the index
 class MultiDimArrayDemo {
     public static void main(String[] args) {
         String[][] names = {

@@ -1,3 +1,4 @@
+//checking if the substring "sub" is in "Look for a substring in me", printing "Found it" if found, or "Didn't find it" if not. It uses a labeled continue to skip mismatches in the loop.
 class ContinueWithLabelDemo {
     public static void main(String[] args) {
 

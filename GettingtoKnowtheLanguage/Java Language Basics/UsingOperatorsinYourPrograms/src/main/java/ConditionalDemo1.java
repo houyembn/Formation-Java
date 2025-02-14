@@ -9,3 +9,4 @@ class ConditionalDemo1 {
             System.out.println("value1 is 1 OR value2 is 1");
     }
 }
+//demonstrating the use of logical operators (&& for AND, || for OR) in conditional statements to check if multiple conditions are true

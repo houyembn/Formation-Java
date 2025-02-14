@@ -1,3 +1,4 @@
+//This class demonstrates generics, enforcing type constraints and causing a compilation error when passing a String instead of a Number.
 public class Box<T> {
 
     private T t;

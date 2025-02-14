@@ -1,3 +1,4 @@
+//demonstrating the use of instanceof to check the type of an object. It checks if obj1 and obj2 are instances of Parent, Child, or MyInterface.
 class InstanceofDemo {
     public static void main(String[] args) {
 

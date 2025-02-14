@@ -1,5 +1,6 @@
+//This class demonstrates inheritance by extending the Bicycle class, adding a new property (tireWidth), and modifying the printDescription method to include the new property.
 public class RoadBike extends Bicycle{
-    // In millimeters (mm)
+    //
     private int tireWidth;
 
     public RoadBike(int startCadence,

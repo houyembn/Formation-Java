@@ -1,3 +1,4 @@
+//counting the occurrences of the letter 'p' in the string and prints the result. The continue statement skips characters that are not 'p'.
 class ContinueDemo {
     public static void main(String[] args) {
 

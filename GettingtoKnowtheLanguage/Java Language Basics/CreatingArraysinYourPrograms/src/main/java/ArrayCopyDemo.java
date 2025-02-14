@@ -12,3 +12,4 @@ class ArrayCopyDemo {
     }
 }
 
+//This code copies a range of elements from the copyFrom array and prints them, from index 2 to index 8, in a single line.

@@ -1,3 +1,4 @@
+//demonstrating basic arithmetic operations (addition, subtraction, multiplication, division, addition, and modulus)
 class ArithmeticDemo {
 
     public static void main (String[] args) {

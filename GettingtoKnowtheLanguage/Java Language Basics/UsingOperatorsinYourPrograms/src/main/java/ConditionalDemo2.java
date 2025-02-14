@@ -11,3 +11,4 @@ class ConditionalDemo2 {
     }
 }
 
+// using the ternary operator (? :) to assign value1 to result if someCondition is true, otherwise assigns value2, and then prints the result.

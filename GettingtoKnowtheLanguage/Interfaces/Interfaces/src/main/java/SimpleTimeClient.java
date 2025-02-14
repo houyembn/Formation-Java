@@ -1,7 +1,7 @@
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.LocalTime;
-
+//This class implements a TimeClient that manages a LocalDateTime, allowing the user to set and get specific date and time values.
 public class SimpleTimeClient implements TimeClient {
 
     private LocalDateTime dateAndTime;

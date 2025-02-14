@@ -1,4 +1,4 @@
-//Sample.java
+//Sample.java : reading a file (Sample.java) line by line and counts how many lines contain a specific word (public).
 import java.nio.file.*;
 
 public class Sample {

@@ -1,3 +1,4 @@
+//printing each element, and then prints the length of the array.
 class ArrayDemo {
     public static void main(String[] args) {
         // declares an array of integers

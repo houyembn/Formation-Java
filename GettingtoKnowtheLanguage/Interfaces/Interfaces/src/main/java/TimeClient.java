@@ -3,6 +3,7 @@ import java.time.LocalDateTime;
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
 
+//This interface defines methods to set and get date and time, along with static and default methods for handling time zones and converting to ZonedDateTime.
 public interface TimeClient {
     void setTime(int hour, int minute, int second);
     void setDate(int day, int month, int year);

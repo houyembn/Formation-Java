@@ -1,4 +1,4 @@
-// Note: This class will not compile yet.
+//This class creates a list of numbers and writes them to a file while handling exceptions.
 import java.io.*;
 import java.util.List;
 import java.util.ArrayList;

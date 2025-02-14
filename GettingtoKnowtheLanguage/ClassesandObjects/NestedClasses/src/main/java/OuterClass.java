@@ -1,3 +1,4 @@
+//This class shows how inner classes and static nested classes work.
 public class OuterClass {
 
     String outerField = "Outer field";

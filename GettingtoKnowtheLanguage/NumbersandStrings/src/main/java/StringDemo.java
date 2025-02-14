@@ -1,3 +1,4 @@
+// reversing a string by converting it into a character array, reversing the array, and then constructing a new string from the reversed array.
 public class StringDemo {
     public static void main(String[] args) {
         String palindrome = "Dot saw I was Tod";

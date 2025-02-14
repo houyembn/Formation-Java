@@ -1,3 +1,4 @@
+//This class demonstrates variable shadowing by using the same variable name (x) at different levels (method, inner class, and outer class).
 public class ShadowTest {
 
     public int x = 0;

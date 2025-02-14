@@ -1,3 +1,4 @@
+//The average method calculates the average of an array, returning 0 if empty.
 public class Calculator {
 
     public static double average(int[] numbers) {

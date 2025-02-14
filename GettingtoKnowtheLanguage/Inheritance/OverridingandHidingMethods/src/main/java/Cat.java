@@ -1,3 +1,4 @@
+//This class shows how static and instance methods behave in inheritance.
 public class Cat extends Animal {
     public static void testClassMethod() {
         System.out.println("The static method in Cat");

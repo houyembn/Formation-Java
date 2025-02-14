@@ -1,3 +1,4 @@
+//This class validates phone numbers by removing non-numeric characters and checking if they have exactly 10 digits.
 public class LocalClassExample {
 
     static String regularExpression = "[^0-9]";
@@ -7,9 +8,7 @@ public class LocalClassExample {
 
         final int numberLength = 10;
 
-        // Valid in JDK 8 and later:
 
-        // int numberLength = 10;
 
         class PhoneNumber {
 
@@ -29,7 +28,7 @@ public class LocalClassExample {
                 return formattedPhoneNumber;
             }
 
-            // Valid in JDK 8 and later:
+
 
 //            public void printOriginalNumbers() {
 //                System.out.println("Original numbers are " + phoneNumber1 +
@@ -40,7 +39,7 @@ public class LocalClassExample {
         PhoneNumber myNumber1 = new PhoneNumber(phoneNumber1);
         PhoneNumber myNumber2 = new PhoneNumber(phoneNumber2);
 
-        // Valid in JDK 8 and later:
+
 
 //        myNumber1.printOriginalNumbers();
 

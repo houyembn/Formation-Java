@@ -1,3 +1,4 @@
+//searching for the number 12 in a 2D array and prints its position (row, column) if found. If not found, it prints a message saying the number isn't in the array.
 class BreakWithLabelDemo {
     public static void main(String[] args) {
 

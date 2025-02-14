@@ -1,3 +1,4 @@
+//This class demonstrates how to use generics to store and display boxed values in a list.
 public class BoxDemo {
 
     public static <U> void addBox(U u,

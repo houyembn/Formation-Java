@@ -1,3 +1,4 @@
+//This class demonstrates polymorphism by creating instances of Bicycle, MountainBike, and RoadBike and calling the printDescription method on each, showing different behavior for each type of bike.
 public class TestBikes {
     public static void main(String[] args){
         Bicycle bike01, bike02, bike03;

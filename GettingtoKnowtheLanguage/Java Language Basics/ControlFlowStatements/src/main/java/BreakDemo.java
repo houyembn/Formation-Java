@@ -1,3 +1,4 @@
+//searching for a specific number (12 in this case) within an array. If the number is found, it prints the index where it was found; if not, it prints that the number isn't in the array. The break exits the loop as soon as the number is found.
 class BreakDemo {
     public static void main(String[] args) {
 

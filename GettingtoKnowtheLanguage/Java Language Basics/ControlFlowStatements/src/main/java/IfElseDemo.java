@@ -1,3 +1,4 @@
+//printing the grade
 class IfElseDemo {
     public static void main(String[] args) {
 

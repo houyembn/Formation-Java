@@ -1,3 +1,4 @@
+//demonstrates the use of unary operators: +, --, ++, -, and ! on integers and booleans.
 class UnaryDemo {
 
     public static void main(String[] args) {
